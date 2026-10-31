@@ -1,0 +1,12 @@
+venv/
+models/
+work/
+samples/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.mp4
+*.mkv
+*.mov
+.cache/
