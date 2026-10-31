@@ -1,0 +1,17 @@
+# Install PyTorch first (CUDA 12.1 build):
+#   pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu121
+#
+# parler-tts pins transformers==4.46.1, so the packages below are kept on compatible versions.
+transformers==4.46.1
+huggingface_hub==0.36.2
+faster-whisper
+demucs
+sentencepiece
+sacremoses
+soundfile
+librosa
+requests
+gradio<6
+sentence-transformers<4
+git+https://github.com/VarunGumma/IndicTransToolkit.git
+git+https://github.com/huggingface/parler-tts.git
