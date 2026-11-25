@@ -1,0 +1,15 @@
+venv/
+models/
+work/
+samples/
+outputs/
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.mp4
+*.mkv
+*.mov
+.cache/
+.vscode/
+!examples/*.mp3

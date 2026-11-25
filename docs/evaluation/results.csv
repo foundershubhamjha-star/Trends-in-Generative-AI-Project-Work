@@ -1,0 +1,11 @@
+input,language,agent,lines,fixable_before,fixed,fixable_after,artifacts,mean_tempo_before,mean_tempo_after,max_tempo_before,max_tempo_after,seconds
+clip2.wav,hi,True,12,2,2,0,0,1.057,1.007,1.35,1.087,368.6
+clip.wav,hi,True,5,1,1,0,0,1.07,1.0,1.35,1.002,138.5
+clip2.wav,hi,True,12,2,2,0,0,1.057,1.007,1.35,1.087,42.6
+full.wav,hi,True,39,5,2,3,0,1.06,1.047,1.35,1.35,1753.7
+speech2.wav,hi,True,28,3,2,1,0,1.03,1.019,1.35,1.35,1737.3
+nehru.mp3,hi,True,36,5,2,3,0,1.053,1.034,1.35,1.35,2037.1
+jfk_english.mp4,hi,True,14,1,0,1,0,1.032,1.032,1.35,1.35,417.4
+clip2_hi_agent.wav,en,True,4,0,0,0,0,1.0,1.0,1.0,1.0,107.9
+hindi_short.mp4,en,True,3,0,0,0,0,1.0,1.0,1.0,1.0,142.6
+hindi_short.mp4,en,True,3,0,0,0,0,1.0,1.0,1.0,1.0,46.8
